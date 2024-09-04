@@ -54,14 +54,14 @@ To run this project locally, follow the steps below:
 
 ## Part 1: Scrape Mars News
 - Open the notebook part_1_mars_news.ipynb.
-- Run the notebook cells to jupyter notebook
+- Run the notebook cells
 - Scrape the Mars news titles and preview text using Splinter and BeautifulSoup.
 - Store the scraped data in a list of dictionaries, with each dictionary containing a title and its preview text.
 - 
 ## Part 2: Scrape and Analyze Mars Weather Data
 
 - Open the notebook part_2_mars_weather.ipynb.
-- Run the notebook cells to jupyter notebook
+- Run the notebook cells
 - Scrape the Mars weather data (e.g., temperature, pressure).
 - Clean and convert the scraped data into a Pandas DataFrame.
 ## Analyze the data to answer the following questions:
