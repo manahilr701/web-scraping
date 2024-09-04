@@ -30,7 +30,9 @@ By completing these tasks, the project demonstrates the use of web scraping tool
 ## Project Structure
 This project consists of the following files:
 
-├── part_1_mars_news.ipynb # Jupyter notebook to scrape Mars news articles ├── part_2_mars_weather.ipynb # Jupyter notebook to scrape and analyze Mars weather data ├── mars_weather_data.csv # CSV file containing cleaned Mars weather data
+- **part_1**: mars_news.ipynb # Jupyter notebook to scrape Mars news articles
+- **part_2**: mars_weather.ipynb # Jupyter notebook to scrape and analyze Mars weather data
+- **mars_weather_data.csv**: CSV file containing cleaned Mars weather data
 
 
 ---
@@ -81,3 +83,12 @@ To run this project locally, follow the steps below:
 ## Results
 - The project successfully scraped Mars news articles and Mars weather data.
 - It performed analysis on temperature and atmospheric pressure to identify trends and answered key questions about the Martian environment.
+
+## Contributing
+- Contributions are welcome! Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
